@@ -16,5 +16,8 @@
 <img width="414" height="408" alt="image" src="https://github.com/user-attachments/assets/2e7a1e25-5f32-4753-8aeb-ac5240de9b07" />
 <img width="230" height="325" alt="image" src="https://github.com/user-attachments/assets/b316ba99-8d51-4292-bde2-f7109241e57d" />
 
-
-
+- Gosto de comer:
+1. Macarrão🍝
+2. Hambúrguer🍔
+3. Lasanha
+4. Sorvete🍦
