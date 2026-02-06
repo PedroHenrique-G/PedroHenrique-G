@@ -20,4 +20,4 @@
 1. Macarrão🍝
 2. Hambúrguer🍔
 3. Lasanha
-4. Sorvete🍦 
+4. Sorvete🍦  
