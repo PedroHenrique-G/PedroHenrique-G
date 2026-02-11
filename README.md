@@ -11,10 +11,9 @@
 6. Pintura digital.
 
 - Gosto de assistir:
-
-<img width="250" height="373" alt="image" src="https://github.com/user-attachments/assets/0a70d00f-8048-4f8f-b4e9-449c23a1dc19" />
-<img width="414" height="408" alt="image" src="https://github.com/user-attachments/assets/2e7a1e25-5f32-4753-8aeb-ac5240de9b07" />
-<img width="230" height="325" alt="image" src="https://github.com/user-attachments/assets/b316ba99-8d51-4292-bde2-f7109241e57d" />
+1. Toy Story
+2. Chaves
+3. Dragon ball
 
 - Gosto de comer:
 1. Macarrão🍝
