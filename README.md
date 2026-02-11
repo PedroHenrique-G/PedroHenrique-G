@@ -11,9 +11,9 @@
 6. Pintura digital.
 
 - Gosto de assistir:
-1. Toy Story
-2. Chaves
-3. Dragon ball
+1. Toy Story🧸
+2. Chaves🔑
+3. Dragon ball🐉
 
 - Gosto de comer:
 1. Macarrão🍝
