@@ -11,11 +11,17 @@
 6. Pintura digital.
 
 - Gosto de assistir:
+ 
+   ![HappyDuckGIF](https://github.com/user-attachments/assets/9f487c67-6c10-489f-8d00-748e121936cb)
+
 1. Toy Story🧸
 2. Chaves🔑
 3. Dragon ball🐉
 
 - Gosto de comer:
+
+![CatEatingGIF](https://github.com/user-attachments/assets/f81eef74-c855-423c-9ef1-dca4f8097089)
+
 1. Macarrão🍝
 2. Hambúrguer🍔
 3. Lasanha
