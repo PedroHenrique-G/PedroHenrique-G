@@ -6,9 +6,10 @@
 1. JavaScript;
 2. Markdown;
 3. PowerShell;
-4. Inglês;
-5. Desenho;
-6. Pintura digital.
+4. Ubuntu;
+5. Inglês;
+6. Desenho;
+7. Pintura digital.
 
 - Gosto de assistir:
  
